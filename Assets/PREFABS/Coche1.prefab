@@ -437,11 +437,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpeed: 300
   maxReverseSpeed: 65
-  accelerationMultiplier: 6
+  accelerationMultiplier: 10
   maxSteeringAngle: 30
   steeringSpeed: 0.616
   brakeForce: 545
-  decelerationMultiplier: 8
+  decelerationMultiplier: 3
   handbrakeDriftMultiplier: 8
   bodyMassCenter: {x: 0, y: 0, z: 0}
   frontLeftMesh: {fileID: 769964106308931276}
